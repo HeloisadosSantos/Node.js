@@ -4,3 +4,12 @@ cd + a + tab = agora estamos dentro da pasta
 npm install -g @angular/cli = angular instalado
 cd + espaço = inicial do meu projeto + tab = entrou na pj
 ng g c header = g= componente e generente
+
+
+1- installar vue npm install @vue/cli
+2- npx create projeto-clima-api (criando um novo projeto)
+3- defalt vue 3
+4- code . (para aabrir somente o projeto no vscode)
+5- Vue Language Features (Volar) - Intalar no vscode
+6- npm run serve
+obs: devemos entrar dentro da pasta do código. 
